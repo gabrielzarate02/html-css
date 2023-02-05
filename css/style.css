@@ -31,6 +31,15 @@
     grid-column: 3/4;
 }
 
+.page-header{
+    text-align: center;
+}
+
+.site-footer{
+    display: flex;
+    
+}
+
 #name{
     display: flex;
 }
