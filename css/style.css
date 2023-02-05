@@ -5,8 +5,8 @@
 }
 
 .site-header{
-    display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: space-between;
 }
 
 .site-header nav{
