@@ -7,14 +7,13 @@
 
 .site-header{
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
-.site-header li{
+.site-header nav{
     display:inline-block;
     list-style: none;
-    justify-content: end;
+    grid-column: 3/4;
 }
 
 #name{
