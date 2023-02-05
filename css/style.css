@@ -3,3 +3,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+
+.site-header{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
