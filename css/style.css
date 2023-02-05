@@ -9,7 +9,7 @@
     justify-content: space-between;
 }
 
-.site-header nav ul{
+.site-header li{
     display:flex;
     list-style: none;
 }
