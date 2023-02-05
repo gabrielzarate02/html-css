@@ -13,7 +13,7 @@
 .site-header li{
     display:inline-block;
     list-style: none;
-    grid-column: -1;
+    grid-column: 3;
 }
 
 #name{
