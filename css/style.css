@@ -10,7 +10,7 @@
 }
 
 .site-header li{
-    display:flex;
+    display:inline-block;
     list-style: none;
 }
 
