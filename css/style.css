@@ -10,7 +10,7 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 
-.site-header nav ul{
+.site-header li{
     display:inline-block;
     list-style: none;
     grid-column: 3/-1;
