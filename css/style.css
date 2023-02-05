@@ -2,6 +2,7 @@
 .cards{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
 }
 
 .site-header{
@@ -13,6 +14,7 @@
 .site-header li{
     display:inline-block;
     list-style: none;
+    justify-content: end;
 }
 
 #name{
